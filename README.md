@@ -9,3 +9,4 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 Most people would use the number of campaign backers to assess the success of a crowdfunding campaign. Creating a summary statistics table is one of the most efficient ways that data scientists can characterize quantitative metrics, such as the number of campaign backers.
 
 For gaining an in-depth understanding of campaign backers, evaluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
+![Alt text](./Images/CategoryStats.PNG?raw=true "Title")
